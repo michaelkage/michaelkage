@@ -31,6 +31,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/actuallyintowomen/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61587165912769)
 
+### 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/michaelkage/michaelkage/output/github-snake-dark.svg)
+
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?label=SYSTEM%20TRAFFIC&query=value&color=00f2ff&style=plastic&logo=git&url=https://api.countapi.xyz/hit/michaelkage/visits" alt="System Traffic" />
