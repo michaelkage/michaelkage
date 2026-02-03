@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00f2ff"/>
+      <stop offset="100%" stop-color="#7b2ff7"/>
+    </linearGradient>
+    <style><![CDATA[
+      .bg{fill:#0d1117}
+      .stroke{fill:none;stroke:url(#g);stroke-width:2;opacity:0.5}
+      .label{font-family:'JetBrains Mono',monospace;font-size:18px;fill:#00f2ff}
+      .dot{fill:#00f2ff;animation:blink 1.5s infinite}
+      @keyframes blink { 0%, 100% {opacity: 1} 50% {opacity: 0.3} }
+    ]]></style>
+  </defs>
+  <rect class="bg" width="800" height="120" rx="12"/>
+  <text x="30" y="65" class="label">SYSTEM_STATUS: ACTIVE</text>
+  <circle class="dot" cx="260" cy="58" r="4"/>
+  <rect x="550" y="35" width="220" height="50" rx="8" class="stroke"/>
+  <text x="575" y="65" class="label" style="font-size:14px">MK_OS_v1.0</text>
+</svg>
