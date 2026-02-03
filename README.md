@@ -22,6 +22,10 @@
   </a>
 </p>
 
+### 📡 Latest System Log
+> [!IMPORTANT]
+> **Current Status:** [View my latest entry here](https://github.com/michaelkage/Daily-Log/blob/main/2026-02-03-Log.md)
+
 ### 🤝 Connect with me
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michaelkage)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/actuallyintowomen/)
