@@ -1,16 +1,14 @@
-## Hi there 👋
+# ⚡ Michael Kage
 
-<!--
-**michaelkage/michaelkage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building, learning, and documenting the process.
 
-Here are some ideas to get you started:
+### 🔭 What's happening?
+- 🛠️ Currently building out my **GitHub ecosystem**.
+- 🧠 Deep diving into **AI integration** and workflow optimization.
+- 📈 Tracking daily progress in my `Daily-Log` repo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Toolkit
+![Tech Stack](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,windows)
+
+### 📊 Vital Signs
+![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelkage&show_icons=true&theme=dark&hide_border=true)
