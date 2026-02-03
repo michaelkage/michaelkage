@@ -29,5 +29,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaelkage&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=SYSTEM%20TRAFFIC&query=value&color=00f2ff&style=plastic&logo=git&url=https://api.countapi.xyz/hit/michaelkage/visits" alt="System Traffic" />
 </p>
