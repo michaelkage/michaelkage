@@ -23,7 +23,7 @@
 <a href="https://web.facebook.com/profile.php?id=61587165912769"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"></a>
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/michaelkage/michaelkage/output/github-snake-dark.svg" />
+<img src="./output/github-snake-dark.svg" alt="Contribution Snake" />
 
 ---
 <p align="center">
