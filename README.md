@@ -17,3 +17,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@michaelkage)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/actuallyintowomen/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61587165912769)
+
+---
+![Visitors](https://komarev.com/ghpvc/?username=michaelkage&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
